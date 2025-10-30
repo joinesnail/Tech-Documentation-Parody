@@ -1,0 +1,2 @@
+# Quick Thoughts
+Implement a more efficient string matching algorithm
